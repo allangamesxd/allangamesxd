@@ -1,16 +1,31 @@
-### Hi there 👋
+# `👋 Sobre mim`
+> **Eu faço bots para o discord e sou iniciante em programação.**
 
-<!--
-**allangamesxd/allangamesxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `👨‍💻 Imagens com links`
 
-Here are some ideas to get you started:
+> `Meu servidor`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://user-images.githubusercontent.com/100823318/175199753-19723715-aa7b-4c1e-bf1b-3afab6c60c7c.png)
+
+> `Servidor do meu bot`
+
+![044c4363965f7d0b9011483b9de7bcdf](https://cdn.discordapp.com/avatars/953301607498526740/044c4363965f7d0b9011483b9de7bcdf.png?size=48)
+
+# `👨‍💻 Linguagens que eu programo`
+```js
+const Linguagem = "Javascript";
+```
+
+```ts
+const Linguagem = "Typescript";
+```
+
+```java
+public class Main {
+  String Linguagem = "Java";
+}
+```
+
+```py
+Linguagem = "Python";
+```
